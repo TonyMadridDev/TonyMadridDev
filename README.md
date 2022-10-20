@@ -1,4 +1,4 @@
-### Hi there 👋 I Am Antonio Madrid (Tony)
+### Hi there 👋 I Am Tony Madrid, A Front-End Developer from Concord, CA.
 
 <!--
 **TonyMadridDev/TonyMadridDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
